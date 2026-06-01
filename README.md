@@ -1,0 +1,2 @@
+# ltlalch2copy
+p
